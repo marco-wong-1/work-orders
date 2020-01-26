@@ -2,6 +2,10 @@
 
 This app fetches work orders as well as workers from an API and list them based on the work order's deadlines
 
+## Demo
+
+Click here for a demo of this app: https://work-orders-sort.herokuapp.com/
+
 ## Installation & Setup
 
 Clone down this repository. You will need `node` and `yarn` installed globally on your machine.
